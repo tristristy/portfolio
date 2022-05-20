@@ -13,6 +13,6 @@
 - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Preview and link of site
- 
+ Click [Here](https://tristristy.github.io/portfolio/) to view this page!
  ![Preview for site](assets/images/website-screenshot.png)
  
